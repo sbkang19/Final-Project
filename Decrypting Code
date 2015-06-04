@@ -13,3 +13,7 @@ print msg
 enc = caesar(msg, 5)
 
 print caesar(enc, 16, decode = True)
+
+#citation
+#"Caesar Cipher." Rosetta Code. N.p., n.d. Web. 4 June 2015.
+#Website: http://rosettacode.org/wiki/Caesar_cipher
