@@ -12,3 +12,7 @@ msg = "PUT YOUR MESSAGE HERE!"
 print msg
 enc = caesar(msg, 11)
 print enc
+
+#citation
+#"Caesar Cipher." Rosetta Code. N.p., n.d. Web. 4 June 2015.
+#Website: http://rosettacode.org/wiki/Caesar_cipher
