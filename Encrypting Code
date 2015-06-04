@@ -8,7 +8,7 @@ def caesar(alphabet, strings, decode = False):
            string.ascii_lowercase[strings:] + string.ascii_lowercase[:strings]
            )
        )
-msg = "Wow how fun is it?"
+msg = "PUT YOUR MESSAGE HERE!"
 print msg
 enc = caesar(msg, 11)
 print enc
